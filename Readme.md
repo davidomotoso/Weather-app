@@ -15,7 +15,7 @@ This repository contains files for a simple weather application that displays we
 Clone the repository to your local machine using the following command:
 
 ```
-https://github.com/davidomotoso/David-Portfolio.git
+https://github.com/davidomotoso/Weather-app.git
 ```
 
 ## Usage
