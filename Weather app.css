@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(https://media.istockphoto.com/id/184103864/photo/clouds-on-sky.jpg?s=612x612&w=0&k=20&c=3JGI13B8xwZIObLtl8IN1VFtPErHv2pKiWV0tTuemsI=);
+  background-image: url(img/cloud.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;

@@ -15,7 +15,7 @@ This repository contains files for a simple weather application that displays we
 Clone the repository to your local machine using the following command:
 
 ```
-https://github.com/davidomotoso/Weather-app.git
+https://github.com/davidomotoso/David-Portfolio.git
 ```
 
 ## Usage
@@ -37,6 +37,9 @@ Please note that modifying the JavaScript code may require familiarity with web 
 ## Attribution
 
 The weather application utilizes the following resources:
+
+- Favicon image : The favicon image used in the application is sourced from <a href="https://www.flaticon.com/">flaticon</a> and can be found at the following URL:
+  <a href="https://www.flaticon.com/free-icon/sunset_10132764?term=sunset&page=1&position=13&origin=tag&related_id=10132764">Sunset</a>. The icon was made by <a href="https://www.flaticon.com/authors/logisstudio">LogisStudio</a>
 
 - Background Image: The background image used in the application is sourced from <a href="https://www.istockphoto.com/">iStockphoto</a> and can be found at the following URL: <a href="https://media.istockphoto.com/id/184103864/photo-clouds-on-sky.jpg?s=612x612&w=0&k=20&c=3JGI13B8xwZIObLtl8IN1VFtPErHv2pKiWV0tTuemsI=">Clouds on Sky.</a>
 
