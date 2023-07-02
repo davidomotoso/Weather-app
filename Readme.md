@@ -2,6 +2,10 @@
 
 This repository contains files for a simple weather application that displays weather information based on the user's current location or a searched location. The application is built using HTML, CSS, and JavaScript.
 
+## [Live Demo](https://weather-app-davidomotoso.vercel.app/)
+
+<img src="img/Weather-app.gif" width=100% height=auto>
+
 ## Files
 
 - index.html: This HTML file contains the structure and content of the weather application. It includes a search section for entering a location and a weather information section for displaying the weather data.
@@ -12,10 +16,10 @@ This repository contains files for a simple weather application that displays we
 
 ## Installation
 
-Clone the repository to your local machine using the following command:
+Clone the repository into your local machine using the following command:
 
 ```
-https://github.com/davidomotoso/Weather-app.git
+git clone https://github.com/davidomotoso/Weather-app.git
 ```
 
 ## Usage
@@ -38,12 +42,11 @@ Please note that modifying the JavaScript code may require familiarity with web 
 
 The weather application utilizes the following resources:
 
-- Favicon image : The favicon image used in the application is sourced from <a href="https://www.flaticon.com/">flaticon</a> and can be found at the following URL: 
-  <a href="https://www.flaticon.com/free-icon/sunset_10132764?term=sunset&page=1&position=13&origin=tag&related_id=10132764">Sunset</a>. The icon was made by <a href="https://www.flaticon.com/authors/logisstudio">LogisStudio</a>
+- Favicon image : The favicon image used in the application is sourced from [flaticon](https://www.flaticon.com/) and can be found at the following URL: [Sunset](https://www.flaticon.com/free-icon/sunset_10132764?term=sunset&page=1&position=13&origin=tag&related_id=10132764). The icon was made by [LogisStudio](https://www.flaticon.com/authors/logisstudio)
 
-- Background Image: The background image used in the application is sourced from <a href="https://www.istockphoto.com/">iStockphoto</a> and can be found at the following URL: <a href="https://media.istockphoto.com/id/184103864/photo-clouds-on-sky.jpg?s=612x612&w=0&k=20&c=3JGI13B8xwZIObLtl8IN1VFtPErHv2pKiWV0tTuemsI=">Clouds on Sky.</a>
+- Background Image: The background image used in the application is sourced from [iStockphoto](https://www.istockphoto.com/) and can be found at the following URL: [Clouds on Sky](https://media.istockphoto.com/id/184103864/photo-clouds-on-sky.jpg?s=612x612&w=0&k=20&c=3JGI13B8xwZIObLtl8IN1VFtPErHv2pKiWV0tTuemsI=).
 
-- OpenWeatherMap: Weather data is retrieved from the OpenWeatherMap API. For more information, visit their website: <a href="https://openweathermap.org/" >OpenWeatherMap</a>.
+- OpenWeatherMap: Weather data is retrieved from the OpenWeatherMap API. For more information, visit their website: [OpenWeatherMap](https://openweathermap.org).
 
 ## Disclamier
 
